@@ -1,2 +1,2 @@
 ````
-This hold week one challenge
+This holds week one challenge
